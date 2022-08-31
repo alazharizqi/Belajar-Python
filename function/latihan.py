@@ -36,7 +36,7 @@ while True:
         keliling = hitung_keliling(panjang, lebar)
         hasil('Hasil keliling = ', keliling)
     else:
-        print('Inputan tidak dikenal!!!')
+        print('Inputan tidak dikenal!')
 
     lanjut = input('Melanjutkan program (y/n)? ')
 
